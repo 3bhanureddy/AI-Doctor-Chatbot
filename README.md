@@ -28,7 +28,7 @@ Leveraging the **multimodal capabilities of LLaMA models** (text + vision), the 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/3bhanureddy/AI-Doctor-Chatbot.git
+git clone https://github.com/<username>/AI-Doctor-Chatbot.git
 cd AI-Doctor-Chatbot
 
 # 2. Install dependencies
